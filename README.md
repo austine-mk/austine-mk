@@ -5,7 +5,7 @@
 
 - Visit my professional profile here https://austinemandela.carrd.co/
 
-- All of my projects are available at https://github.com/austech101
+- All of my projects are available at https://github.com/austine-mk
 
 - Ask me about **Python, SQL, DBMS, Data Tracking, Dashboarding, A/B Testing, PowerBI**
 
