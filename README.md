@@ -3,15 +3,15 @@
 
 - I’m looking to collaborate on **Data related projects**
 
-- Visit my professional profile here **https://austinemandela.carrd.co/**
+- Visit my professional profile here https://austinemandela.carrd.co/
 
-- All of my projects are available at **https://github.com/austech101**
+- All of my projects are available at https://github.com/austech101
 
-- Ask me about **Python, R, SQL, DBMS, Data Tracking, Dashboarding, A/B Testing**
+- Ask me about **Python, SQL, DBMS, Data Tracking, Dashboarding, A/B Testing, PowerBI**
 
 - View some of my certificates  https://credsverse.com/credentials/9bbe3eb6-2f5c-4469-af6b-fb3b31f7fa31 & https://www.testdome.com/certificates/e05199cf186146678f31ca3d6480d796
 
-- How to reach me **www.linkedin.com/in/austinemandela** 
+- How to reach me: www.linkedin.com/in/austinemandela
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
